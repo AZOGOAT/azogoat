@@ -1,23 +1,24 @@
 # Hey, I'm Omar (AZO) 👋  
 
-® I'm currently working on:  
-MOOVE 🌍 (Massive Open Online Validation & Evaluation, a global medical AI validation platform) and Meditron 🧠 (open-source medical LLM) at the LiGHT Lab, plus RateMyDorm 🏠, my side project for students at EPFL.  
-
-- I'm looking to collaborate on:  
-Creative web apps, research tools, and projects that make student life easier.  
-
-* I'm currently learning:  
-German B1/B2 🇩🇪, advanced backend flows (Convex + Firebase), and sharpening my React/Node.js game.  
-
-• Ask me about:  
-Portfolio design 🎨, ReCHor (CSA routing algorithms ⚡), or Git workflows that I break just to fix cleaner 🌀.  
-
-+ Fun fact:  
-I surf waves 🌊, climb walls 🧗, and still think cookie banners are a personality test 🍪.  
+⚡ **Student Assistant @ LiGHT Lab** working on  
+- **MOOVE 🌍** (Massive Open Online Validation & Evaluation, a global medical AI validation platform)  
+- **Meditron 🧠** (open-source medical LLM)  
 
 ---
 
-### 🛠️ Languages & Tools I Use  
+### 🔭 What I'm into  
+- **Collaboration:** creative web apps, research tools, and student-centric projects.  
+- **Learning:** German B1/B2 🇩🇪, backend flows (Convex + Firebase), and leveling up React/Node.js.  
+- **Ask me about:** Portfolio design 🎨, ReCHor CSA routing ⚡, or how I turn Git mistakes into clean histories 🌀.  
+
+---
+
+### 🌊 Fun side of me  
+I surf waves, climb walls, an play volleyball.  
+
+---
+
+### 🛠️ Tech I use  
 
 **Core coding**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)  
@@ -44,8 +45,9 @@ I surf waves 🌊, climb walls 🧗, and still think cookie banners are a person
 
 ### 📊 GitHub Stats  
 ![AZO's GitHub stats](https://github-readme-stats.vercel.app/api?username=AZOGOAT&show_icons=true&count_private=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AZOGOAT&layout=compact&theme=radical&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AZOGOAT&layout=compact&theme=radical&count_private=true)  
 
+> ⚠️ Note: Stats don’t reflect my work on **private repositories** (LiGHT Lab & org projects).  
 ---
 
 ### 🔗 Connect with me  
