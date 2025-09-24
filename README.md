@@ -48,7 +48,7 @@ I surf waves, climb walls, an play volleyball.
 
 ### 📊 GitHub Stats  
 ![AZO's GitHub stats](https://github-readme-stats.vercel.app/api?username=AZOGOAT&show_icons=true&count_private=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AZOGOAT&layout=compact&theme=radical&count_private=true)  
-![Snake animation](https://github.com/azogoat/azogoat/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/AZOGOAT/AZOGOAT/blob/output/github-contribution-grid-snake.svg)
 
 > ⚠️ Note: Stats don’t reflect my work on **private repositories** (LiGHT Lab & org projects).  
 ---
