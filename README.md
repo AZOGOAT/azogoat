@@ -1,4 +1,7 @@
-# Hey, I'm Omar (AZO) 👋  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey%2C%20I'm%20Omar%20(AZO)!%20👋&animation=fadeIn&type=waving&color=0:000000,100:d72638&height=100&fontColor=ffffff"/>
+</p>
+
 
 ⚡ **Student Assistant @ LiGHT Lab** working on  
 - **MOOVE 🌍** (Massive Open Online Validation & Evaluation, a global medical AI validation platform)  
@@ -44,8 +47,8 @@ I surf waves, climb walls, an play volleyball.
 ---
 
 ### 📊 GitHub Stats  
-![AZO's GitHub stats](https://github-readme-stats.vercel.app/api?username=AZOGOAT&show_icons=true&count_private=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AZOGOAT&layout=compact&theme=radical&count_private=true)  
+![AZO's GitHub stats](https://github-readme-stats.vercel.app/api?username=AZOGOAT&show_icons=true&count_private=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AZOGOAT&layout=compact&theme=radical&count_private=true)  
+![Snake animation](https://github.com/azogoat/azogoat/blob/output/github-contribution-grid-snake.svg)
 
 > ⚠️ Note: Stats don’t reflect my work on **private repositories** (LiGHT Lab & org projects).  
 ---
