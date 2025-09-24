@@ -64,10 +64,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AZOGOAT&show_icons=true&count_private=true&theme=radical" alt="AZO's GitHub stats" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AZOGOAT&layout=compact&theme=radical&count_private=true" alt="Top Langs" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/AZOGOAT/AZOGOAT/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AZOGOAT/AZOGOAT/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AZOGOAT/AZOGOAT/output/github-contribution-grid-snake.svg" />
+  <img alt="Github contribution grid snake" src="https://raw.githubusercontent.com/AZOGOAT/AZOGOAT/output/github-contribution-grid-snake.svg" />
+</picture>
 </p>
 
 <p align="center"><i>⚠️ Stats don’t reflect my work on private repositories (LiGHT Lab & org projects).</i></p>
