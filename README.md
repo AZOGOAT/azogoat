@@ -63,11 +63,13 @@ I’m curious, collaborative, and always looking to learn, whether it’s improv
 > ⚠️ These metrics do not include my work in **private repositories** (LiGHT Lab and org projects).
 
 <!-- Snake: dark-first with fallback -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AZOGOAT/AZOGOAT/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AZOGOAT/AZOGOAT/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution grid snake" src="https://raw.githubusercontent.com/AZOGOAT/AZOGOAT/output/github-contribution-grid-snake.svg" />
-</picture>
+<p align="center"> 
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AZOGOAT/AZOGOAT/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AZOGOAT/AZOGOAT/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution grid snake" src="https://raw.githubusercontent.com/AZOGOAT/AZOGOAT/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 ---
 
