@@ -13,7 +13,7 @@
 Hi, I’m a Computer Science student at **EPFL** with a passion for building things that are both useful and creative.  
 
 I enjoy exploring the intersection of **software engineering, AI, and design**, and I like turning ideas into concrete projects. Some of the things I’ve worked on include:
-- **MOOVE 🌍** — a platform for global validation of medical AI  
+- **MOOVE 🌍** — Massive Open Online Validation & Evaluation, an embedded adaptive platform randomized controlled trial to evaluate the safety and efficacy of medical LLMs  
 - **ReCHor ⚡** — a public transport routing engine based on CSA algorithms  
 
 I’m curious, collaborative, and always looking to learn, whether it’s improving my **React/Node.js** skills, diving deeper into **backend systems**, or leveling up in **German 🇩🇪**. Outside of code, you’ll often find me surfing, climbing, or playing volleyball.
