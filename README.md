@@ -4,7 +4,7 @@
 <!-- Typing intro -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&duration=2500&pause=700&color=D72638&center=true&vCenter=true&repeat=false&height=70&width=750&lines=Hey%2C+I'm+Omar+(AZO)!; Welcome+to+my+GitHub+profile+page!"
+    src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&duration=2500&pause=700&color=D72638&center=true&vCenter=true&multiline=true&repeat=true&height=70&width=780&lines=Hey%2C+I%27m+Omar+(AZO)!;Welcome+to+my+GitHub+profile+page!"
     alt="Typing intro"
   />
 </p>
