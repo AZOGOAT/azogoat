@@ -18,14 +18,6 @@ I enjoy exploring the intersection of **software engineering, AI, and design**, 
 
 I’m curious, collaborative, and always looking to learn, whether it’s improving my **React/Node.js** skills, diving deeper into **backend systems**, or leveling up in **German 🇩🇪**. Outside of code, you’ll often find me surfing, climbing, or playing volleyball.
 
-
----
-
-## What I’m into
-- **Collaboration:** creative web apps, research tools, student-friendly utilities  
-- **Learning:** German B1/B2 🇩🇪, backend flows with **Convex + Firebase**, sharpening **React/Node.js**  
-- **Ask me about:** portfolio design 🎨, **ReCHor** CSA routing ⚡, and turning messy Git into clean histories 🌀
-
 ---
 
 ## Tech toolbox
