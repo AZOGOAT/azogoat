@@ -42,7 +42,7 @@ I’m curious, collaborative, and always looking to learn, whether it’s improv
 **Backend and data**
 <p>
   <a href="https://firebase.google.com/"><img alt="Firebase" height="40" src="https://skillicons.dev/icons?i=firebase"/></a>
-  <a href="https://www.convex.dev/"><img alt="Convex" height="40" src="https://img.shields.io/badge/Convex-000?logo=vercel&logoColor=white"></a>
+  <a href="https://www.convex.dev/"><img alt="Convex" height="40" src="https://cdn.brandfetch.io/id8SBm2SUH/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1752586469822"></a>
 </p>
 
 **Tools I live in**
@@ -74,7 +74,7 @@ I’m curious, collaborative, and always looking to learn, whether it’s improv
 ---
 
 ## Connect with me
-<a href="https://azogoat.github.io/Portfolio"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://azogoat.github.io/Portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/omar-ziyad-azgaoui/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/AZOGOAT"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
