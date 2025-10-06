@@ -41,7 +41,7 @@ I’m curious, collaborative, and always looking to learn, whether it’s improv
 
 **Backend and data**
 <p>
-  <a href="https://firebase.google.com/"><img alt="Firebase" height="40" src="https://skillicons.dev/icons?i=firebase"/></a>
+  <a href="https://firebase.google.com/"><img alt="Firebase" height="40" src="https://cdn.brandfetch.io/idO5yB5awg/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1752648495863"/></a>
   <a href="https://www.convex.dev/"><img alt="Convex" height="40" src="https://cdn.brandfetch.io/id8SBm2SUH/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1752586469822"></a>
 </p>
 
