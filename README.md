@@ -1,12 +1,19 @@
 <!-- Top wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:d72638&height=120&section=header" alt="header"/>
 
-<!-- Typing intro -->
+<!-- Typing intro (responsive) -->
 <p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&duration=2500&pause=700&color=D72638&center=true&vCenter=true&multiline=true&repeat=true&height=70&width=780&lines=Hey%2C+I%27m+Omar+(AZO)!;Welcome+to+my+GitHub+profile+page!"
-    alt="Typing intro"
-  />
+  <picture>
+    <source
+      media="(max-width: 600px)"
+      srcset="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=20&duration=2500&pause=700&color=D72638&center=true&vCenter=true&multiline=true&repeat=true&height=70&width=350&lines=Hey%2C+I%27m+Omar+(AZO)!;Welcome+to+my+GitHub+profile!"
+    />
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&duration=2500&pause=700&color=D72638&center=true&vCenter=true&multiline=true&repeat=true&height=70&width=780&lines=Hey%2C+I%27m+Omar+(AZO)!;Welcome+to+my+GitHub+profile!"
+      alt="Typing intro"
+      style="max-width: 100%; height: auto;"
+    />
+  </picture>
 </p>
 
 ## About me
