@@ -17,13 +17,14 @@
 </p>
 
 ## About me
-Hi, I’m a Computer Science student at **EPFL** with a passion for building things that are both useful and creative.  
 
-I enjoy exploring the intersection of **software engineering, AI, and design**, and I like turning ideas into concrete projects. Some of the things I’ve worked on include:
-- **MOOVE 🌍** — Massive Open Online Validation & Evaluation, an embedded adaptive platform randomized controlled trial to evaluate the safety and efficacy of medical LLMs  
-- **ReCHor ⚡** — a public transport routing engine based on CSA algorithms  
-
-I’m curious, collaborative, and always looking to learn, whether it’s improving my **React/Node.js** skills, diving deeper into **backend systems**, or leveling up in **German 🇩🇪**. Outside of code, you’ll often find me surfing, climbing, or playing volleyball.
+- `name:` Omar (AZO)  
+- `occupation:` CS student at EPFL  
+- `specialties:` React, Python, Java, breaking and fixing things  
+- `current_quest:` reach German B1/B2 without segfaulting  
+- `likes:` clean UIs, messy ideas, elegant backend architectures  
+- `status:` learning fast, shipping faster  
+- `afk_mode:` surfing, climbing, volleyball  
 
 ---
 
@@ -62,12 +63,6 @@ I’m curious, collaborative, and always looking to learn, whether it’s improv
 ---
 
 ## GitHub stats
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=AZOGOAT&show_icons=true&count_private=true&theme=radical" alt="AZO's GitHub stats" height="160"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AZOGOAT&layout=compact&theme=radical&count_private=true" alt="Top Langs" height="160"/> 
-</p>
-
-> ⚠️ These metrics do not include my work in **private repositories** (LiGHT Lab and org projects).
 
 <!-- Snake: dark-first with fallback -->
 <p align="center"> 
