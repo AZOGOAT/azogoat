@@ -6,10 +6,10 @@
   <picture>
     <source
       media="(max-width: 600px)"
-      srcset="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=20&duration=2500&pause=700&color=D72638&center=true&vCenter=true&multiline=true&repeat=true&height=70&width=350&lines=Hey%2C+I%27m+Omar+(AZO)!;Welcome+to+my+GitHub+profile!"
+      srcset="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=20&duration=2500&pause=700&color=D72638&center=true&vCenter=true&multiline=true&repeat=true&height=70&width=350&lines=Hey%2C+I'm+AZO!;Welcome+to+my+GitHub+profile!"
     />
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&duration=2500&pause=700&color=D72638&center=true&vCenter=true&multiline=true&repeat=true&height=70&width=780&lines=Hey%2C+I%27m+Omar+(AZO)!;Welcome+to+my+GitHub+profile!"
+      src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&duration=2500&pause=700&color=D72638&center=true&vCenter=true&multiline=true&repeat=true&height=70&width=780&lines=Hey%2C+I'm+AZO!;Welcome+to+my+GitHub+profile!"
       alt="Typing intro"
       style="max-width: 100%; height: auto;"
     />
@@ -18,7 +18,7 @@
 
 ## About me
 
-- `name:` Omar (AZO)  
+- `name:` Omar Ziyad Azgaoui  
 - `occupation:` CS student at EPFL  
 - `specialties:` React, Python, Java, breaking and fixing things  
 - `current_quest:` reach German B1/B2 without segfaulting  
