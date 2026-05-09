@@ -84,27 +84,35 @@ const azo = {
 
 <table>
 <tr>
-<td>
-  <a href="https://github.com/swiss-ai/mmore">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=swiss-ai&repo=mmore&theme=tokyonight&hide_border=true&bg_color=001a2e&title_color=10c0f0&icon_color=e04010&text_color=7fb8d8" />
-  </a>
+<td width="50%" valign="top">
+
+#### 🐍 [`swiss-ai/mmore`](https://github.com/swiss-ai/mmore)
+Multimodal document processing pipeline at scale.
+<sub>**Python** · contributor at Swiss AI Initiative</sub>
+
 </td>
-<td>
-  <a href="https://github.com/EPFLiGHT/LiGHT-Conferences-Calendar">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EPFLiGHT&repo=LiGHT-Conferences-Calendar&theme=tokyonight&hide_border=true&bg_color=001a2e&title_color=10c0f0&icon_color=e04010&text_color=7fb8d8" />
-  </a>
+<td width="50%" valign="top">
+
+#### ⚛️ [`EPFLiGHT/LiGHT-Conferences-Calendar`](https://github.com/EPFLiGHT/LiGHT-Conferences-Calendar)
+Conference deadline tracker for the LiGHT lab. Search, sort, Slack reminders.
+<sub>**TypeScript / React** · contributor at EPFL LiGHT</sub>
+
 </td>
 </tr>
 <tr>
-<td>
-  <a href="https://github.com/AZOGOAT/ReCHor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AZOGOAT&repo=ReCHor&theme=tokyonight&hide_border=true&bg_color=001a2e&title_color=10c0f0&icon_color=e04010&text_color=7fb8d8" />
-  </a>
+<td width="50%" valign="top">
+
+#### ☕ [`AZOGOAT/ReCHor`](https://github.com/AZOGOAT/ReCHor)
+Swiss public transport route planner. Multi-leg journeys, transfers, real schedules.
+<sub>**Java** · personal project</sub>
+
 </td>
-<td>
-  <a href="https://github.com/AZOGOAT/ICMonGame">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AZOGOAT&repo=ICMonGame&theme=tokyonight&hide_border=true&bg_color=001a2e&title_color=10c0f0&icon_color=e04010&text_color=7fb8d8" />
-  </a>
+<td width="50%" valign="top">
+
+#### 🎮 [`AZOGOAT/ICMonGame`](https://github.com/AZOGOAT/ICMonGame)
+A Pokémon-inspired RPG built from scratch. Tile-based world, sprite engine, combat system.
+<sub>**Java** · personal project</sub>
+
 </td>
 </tr>
 </table>
@@ -126,6 +134,7 @@ const azo = {
 
 ---
 
+<!-- ============ FOOTER ============ -->
 <p align="center">
-  <sub>built with caffeine in lausanne · <code>// keep shipping</code></sub>
+  <img src="./assets/footer.svg" alt="ocean footer" width="100%"/>
 </p>
