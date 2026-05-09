@@ -40,9 +40,10 @@
       .mono { font-family: 'JetBrains Mono', 'Fira Code', ui-monospace, monospace; }
       .float { animation: float 5s ease-in-out infinite; transform-origin: center; }
       @keyframes float { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-5px); } }
-      .drift1 { animation: drift 9s ease-in-out infinite; }
-      .drift2 { animation: drift 13s ease-in-out infinite reverse; }
-      @keyframes drift { 0%,100% { transform: translateX(0); } 50% { transform: translateX(8px); } }
+      .drift1 { animation: drift1 7s ease-in-out infinite; }
+      .drift2 { animation: drift2 10s ease-in-out infinite reverse; }
+      @keyframes drift1 { 0%,100% { transform: translateX(0); } 50% { transform: translateX(70px); } }
+      @keyframes drift2 { 0%,100% { transform: translateX(0); } 50% { transform: translateX(90px); } }
     </style>
   </defs>
 
@@ -51,10 +52,10 @@
 
   <!-- Layered waves -->
   <g class="drift2" opacity="0.5">
-    <path d="M0,235 Q150,205 300,235 T600,235 T900,235 T1200,235 L1200,360 L0,360 Z" fill="#003a5c"/>
+    <path d="M-150,235 Q0,205 150,235 T450,235 T750,235 T1050,235 T1350,235 L1350,360 L-150,360 Z" fill="#003a5c"/>
   </g>
   <g class="drift1" opacity="0.65">
-    <path d="M0,265 Q200,235 400,270 T800,270 T1200,260 L1200,360 L0,360 Z" fill="#0066a0"/>
+    <path d="M-150,265 Q50,235 250,270 T650,270 T1050,270 T1350,265 L1350,360 L-150,360 Z" fill="#0066a0"/>
   </g>
   <g opacity="0.85">
     <path d="M0,300 Q180,280 360,305 T720,305 T1200,295 L1200,360 L0,360 Z" fill="#0090d0"/>

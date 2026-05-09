@@ -25,9 +25,10 @@
 
     <style>
       .fmono { font-family: 'JetBrains Mono', 'Fira Code', ui-monospace, monospace; }
-      .fdrift1 { animation: fdrift 9s ease-in-out infinite; }
-      .fdrift2 { animation: fdrift 13s ease-in-out infinite reverse; }
-      @keyframes fdrift { 0%,100% { transform: translateX(0); } 50% { transform: translateX(8px); } }
+      .fdrift1 { animation: fdrift1 7s ease-in-out infinite; }
+      .fdrift2 { animation: fdrift2 10s ease-in-out infinite reverse; }
+      @keyframes fdrift1 { 0%,100% { transform: translateX(0); } 50% { transform: translateX(70px); } }
+      @keyframes fdrift2 { 0%,100% { transform: translateX(0); } 50% { transform: translateX(90px); } }
     </style>
   </defs>
 
@@ -35,10 +36,10 @@
 
   <!-- Mirrored layered waves (cresting upward this time) -->
   <g class="fdrift2" opacity="0.5">
-    <path d="M0,0 L0,40 Q150,70 300,40 T600,40 T900,40 T1200,40 L1200,0 Z" fill="#0090d0"/>
+    <path d="M-150,0 L-150,40 Q0,70 150,40 T450,40 T750,40 T1050,40 T1350,40 L1350,0 Z" fill="#0090d0"/>
   </g>
   <g class="fdrift1" opacity="0.65">
-    <path d="M0,0 L0,65 Q200,95 400,60 T800,60 T1200,70 L1200,0 Z" fill="#0066a0"/>
+    <path d="M-150,0 L-150,65 Q50,95 250,60 T650,60 T1050,60 T1350,65 L1350,0 Z" fill="#0066a0"/>
   </g>
   <g opacity="0.85">
     <path d="M0,0 L0,95 Q180,115 360,90 T720,90 T1200,100 L1200,0 Z" fill="#003a5c"/>
