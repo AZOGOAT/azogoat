@@ -3,6 +3,12 @@
   <img src="./assets/banner.svg" alt="AZO - Omar Ziyad Azgaoui - CS @ EPFL" width="100%"/>
 </p>
 
+<p align="center">
+  <a href="https://github.com/AZOGOAT">
+    <img src="https://readme-typing-svg.demolab.com?font=Noto+Kufi+Arabic&weight=600&size=30&duration=2000&pause=600&color=0090D0&center=true&vCenter=true&width=500&height=70&lines=%F0%9F%87%AB%F0%9F%87%B7+Bonjour+%F0%9F%87%AB%F0%9F%87%B7;%F0%9F%87%B2%F0%9F%87%A6+%D9%85%D8%B1%D8%AD%D8%A8%D8%A7+%F0%9F%87%B2%F0%9F%87%A6;%F0%9F%87%AC%F0%9F%87%A7+Hello+%F0%9F%87%AC%F0%9F%87%A7;%F0%9F%87%A9%F0%9F%87%AA+Hallo+%F0%9F%87%A9%F0%9F%87%AA" alt="hello in french, arabic, english, german"/>
+  </a>
+</p>
+
 ---
 
 ## About me
