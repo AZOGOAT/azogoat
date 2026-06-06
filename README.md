@@ -143,6 +143,18 @@ A Pokémon-inspired RPG built from scratch. Tile-based world, sprite engine, com
 
 ---
 
+## Metrics
+
+<p align="center">
+  <img src="./assets/metrics.svg" alt="metrics" width="100%"/>
+</p>
+
+<p align="center">
+  <sub>📊 Language stats reflect <b>public repositories only</b> - private and partner-org work isn't counted here.</sub>
+</p>
+
+---
+
 ## Connect with me
 
 <a href="https://azogoat.github.io/Portfolio"><img src="https://img.shields.io/badge/Portfolio-001a2e?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/></a>
