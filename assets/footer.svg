@@ -25,8 +25,8 @@
 
     <style>
       .fmono { font-family: 'JetBrains Mono', 'Fira Code', ui-monospace, monospace; }
-      .fdrift1 { animation: fdrift1 7s ease-in-out infinite; }
-      .fdrift2 { animation: fdrift2 10s ease-in-out infinite reverse; }
+      .fdrift1 { animation: fdrift1 4s ease-in-out infinite; }
+      .fdrift2 { animation: fdrift2 6s ease-in-out infinite reverse; }
       @keyframes fdrift1 { 0%,100% { transform: translateX(0); } 50% { transform: translateX(70px); } }
       @keyframes fdrift2 { 0%,100% { transform: translateX(0); } 50% { transform: translateX(90px); } }
     </style>

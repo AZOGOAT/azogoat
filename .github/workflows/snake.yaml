@@ -1,4 +1,4 @@
-name: Generate Datas
+name: Generate Snake Animation
 
 on:
   schedule:
@@ -16,7 +16,6 @@ jobs:
       - name: Generate snake SVGs
         uses: Platane/snk/svg-only@v3
         with:
-          # safer than hardcoding your username
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg

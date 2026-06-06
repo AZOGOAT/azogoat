@@ -13,7 +13,6 @@ const azo = {
   role: "CS student @ EPFL",
   location: "Lausanne, CH 🇨🇭",
 
-  stack: ["TypeScript", "React", "Python", "Java"],
   loves: ["clean UIs", "messy ideas", "elegant backends"],
 
   currentlyLearning: ["German B1 -> B2", "system design"],
@@ -116,7 +115,17 @@ A Pokémon-inspired RPG built from scratch. Tile-based world, sprite engine, com
 
 ---
 
-## GitHub stats
+## Contribution Graph
+
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=AZOGOAT&bg_color=001a2e&color=0090d0&line=0090d0&point=ffffff&area_color=0090d0&title_color=0090d0&area=true&hide_border=true" width="100%"/>
+  </a>
+</p>
+
+---
+
+## Contribution Snake
 
 <p align="center">
   <picture>

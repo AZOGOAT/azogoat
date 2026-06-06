@@ -40,8 +40,8 @@
       .mono { font-family: 'JetBrains Mono', 'Fira Code', ui-monospace, monospace; }
       .float { animation: float 5s ease-in-out infinite; transform-origin: center; }
       @keyframes float { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-5px); } }
-      .drift1 { animation: drift1 7s ease-in-out infinite; }
-      .drift2 { animation: drift2 10s ease-in-out infinite reverse; }
+      .drift1 { animation: drift1 4s ease-in-out infinite; }
+      .drift2 { animation: drift2 6s ease-in-out infinite reverse; }
       @keyframes drift1 { 0%,100% { transform: translateX(0); } 50% { transform: translateX(70px); } }
       @keyframes drift2 { 0%,100% { transform: translateX(0); } 50% { transform: translateX(90px); } }
     </style>
