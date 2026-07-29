@@ -17,12 +17,13 @@
 const azo = {
   name: "Omar Ziyad Azgaoui",
   role: "CS student @ EPFL",
+  workingWith: "LiGHT lab (EPFL x Harvard), AI for global health",
   location: "Lausanne, CH 🇨🇭",
 
   loves: ["clean UIs", "messy ideas", "elegant backends"],
 
+  currentlyBuilding: "reviewer-two, an AI PR reviewer",
   currentlyLearning: ["German B1 -> B2", "system design"],
-  currentlyBuilding: "// see pinned repos below",
 
   afk: ["surfing 🌊", "climbing 🧗", "volleyball 🏐"],
   motto: "learn fast, ship faster",
@@ -70,28 +71,39 @@ const azo = {
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/swiss-ai/mmore">
-  <img src="./assets/projects/mmore.png" alt="mmore" width="64" align="left" style="margin-right: 12px;"/>
-</a>
-
-#### [`swiss-ai/mmore`](https://github.com/swiss-ai/mmore)
-Multimodal document processing pipeline at scale.
-<sub>**Python** · contributor at Swiss AI Initiative</sub>
-
-</td>
-<td width="50%" valign="top">
-
 <a href="https://github.com/EPFLiGHT/LiGHT-Conferences-Calendar">
   <img src="./assets/projects/conferences-calendar.png" alt="Conferences Calendar" width="64" align="left" style="margin-right: 12px;"/>
 </a>
 
 #### [`EPFLiGHT/LiGHT-Conferences-Calendar`](https://github.com/EPFLiGHT/LiGHT-Conferences-Calendar)
-Conference deadline tracker for the LiGHT lab. Search, sort, Slack reminders.
-<sub>**TypeScript / React** · contributor at EPFL LiGHT</sub>
+Research conference deadline tracker: calendar, countdowns, ICS export, Slack reminders.
+<sub>**TypeScript / React** · core contributor at EPFL LiGHT</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/AZOGOAT/reviewer-two">
+  <img src="./assets/projects/reviewer-two.svg" alt="reviewer-two" width="64" align="left" style="margin-right: 12px;"/>
+</a>
+
+#### [`AZOGOAT/reviewer-two`](https://github.com/AZOGOAT/reviewer-two)
+AI PR reviewer that posts real GitHub reviews. Request it like a human reviewer.
+<sub>**TypeScript** · personal project</sub>
 
 </td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/EPFLiGHT/mmore">
+  <img src="./assets/projects/mmore.png" alt="mmore" width="64" align="left" style="margin-right: 12px;"/>
+</a>
+
+#### [`EPFLiGHT/mmore`](https://github.com/EPFLiGHT/mmore)
+Scalable multimodal pipeline for processing, indexing and querying documents.
+<sub>**Python** · contributor at Swiss AI Initiative / EPFL LiGHT</sub>
+
+</td>
 <td width="50%" valign="top">
 
 <a href="https://github.com/AZOGOAT/ReCHor">
@@ -103,54 +115,27 @@ Swiss public transport route planner. Multi-leg journeys, transfers, real schedu
 <sub>**Java** · personal project</sub>
 
 </td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/AZOGOAT/ICMonGame">
-  <img src="./assets/projects/icmongame.png" alt="ICMonGame" width="64" align="left" style="margin-right: 12px;"/>
-</a>
-
-#### [`AZOGOAT/ICMonGame`](https://github.com/AZOGOAT/ICMonGame)
-A Pokémon-inspired RPG built from scratch. Tile-based world, sprite engine, combat system.
-<sub>**Java** · personal project</sub>
-
-</td>
 </tr>
 </table>
 
-> 🔒 **Private contributions** - also active on private repos with research labs and partner orgs. Happy to walk through the work in interviews or DMs.
+> 🔒 **Private contributions** - most of my day-to-day work lives in private repos: MOOVE (EPFL LiGHT) and other partner-org projects. Happy to walk through it in interviews or DMs.
 
 ---
 
-## Contribution Graph
+## GitHub stats
 
 <p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=AZOGOAT&bg_color=001a2e&color=0090d0&line=0090d0&point=ffffff&area_color=0090d0&title_color=0090d0&area=true&hide_border=true" width="100%"/>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="profile details" width="100%"/>
   </a>
 </p>
 
----
-
-## Contribution Snake
-
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AZOGOAT/AZOGOAT/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AZOGOAT/AZOGOAT/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution grid snake" src="https://raw.githubusercontent.com/AZOGOAT/AZOGOAT/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
----
-
-## Metrics
-
-<p align="center">
-  <img src="./assets/metrics.svg" alt="metrics" width="100%"/>
+  <img src="./assets/metrics.svg" alt="top languages" width="100%"/>
 </p>
 
 <p align="center">
-  <sub>📊 Language stats reflect <b>public repositories only</b> - private and partner-org work isn't counted here.</sub>
+  <sub>📊 Stats reflect <b>public repositories only</b> - private and partner-org work isn't counted here.</sub>
 </p>
 
 ---
@@ -162,6 +147,14 @@ A Pokémon-inspired RPG built from scratch. Tile-based world, sprite engine, com
 <a href="https://github.com/AZOGOAT"><img src="https://img.shields.io/badge/GitHub-001a2e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 ---
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AZOGOAT/AZOGOAT/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AZOGOAT/AZOGOAT/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution grid snake" src="https://raw.githubusercontent.com/AZOGOAT/AZOGOAT/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 <!-- ============ FOOTER ============ -->
 <p align="center">
