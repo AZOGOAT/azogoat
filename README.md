@@ -131,10 +131,6 @@ Swiss public transport route planner. Multi-leg journeys, transfers, real schedu
 </p>
 
 <p align="center">
-  <img src="./assets/metrics.svg" alt="top languages" width="100%"/>
-</p>
-
-<p align="center">
   <sub>📊 Stats reflect <b>public repositories only</b> - private and partner-org work isn't counted here.</sub>
 </p>
 
