@@ -1,11 +1,11 @@
 <!-- ============ HEADER ============ -->
 <p align="center">
-  <img src="./assets/banner.svg" alt="AZO - Omar Ziyad Azgaoui - CS @ EPFL" width="100%"/>
+  <img src="./assets/banner.svg" alt="AZO - Omar Ziyad Azgaoui - Data Science & AI @ SUPSI" width="100%"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/AZOGOAT">
-    <img src="https://readme-typing-svg.demolab.com?font=Noto+Kufi+Arabic&weight=600&size=30&duration=2000&pause=600&color=0090D0&center=true&vCenter=true&width=500&height=70&lines=Bonjour;%D9%85%D8%B1%D8%AD%D8%A8%D8%A7;Hello;Hallo" alt="hello in french, arabic, english, german"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Noto+Kufi+Arabic&weight=600&size=30&duration=2000&pause=600&color=0090D0&center=true&vCenter=true&width=500&height=70&lines=Bonjour;%D9%85%D8%B1%D8%AD%D8%A8%D8%A7;Hello;Hallo;Ciao" alt="hello in french, arabic, english, german, italian"/>
   </a>
 </p>
 
@@ -16,9 +16,9 @@
 ```ts
 const azo = {
   name: "Omar Ziyad Azgaoui",
-  role: "CS student @ EPFL",
+  role: "Data Science & AI student @ SUPSI",
   workingWith: "LiGHT lab (EPFL x Harvard), AI for global health",
-  location: "Lausanne, CH 🇨🇭",
+  location: "Lugano, CH 🇨🇭",
 
   loves: ["clean UIs", "messy ideas", "elegant backends"],
 
